@@ -50,8 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Physical-AI-Book-Org/physical-ai-book/tree/main/',
-          //onBrokenMarkdownLink: 'throw',
+            'https://github.com/aimanwajid/physical-AI-book'
         },
         blog: {
           showReadingTime: true,
@@ -136,7 +135,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Physical-AI-Book-Org/physical-ai-book',
+                href: 'https://github.com/aimanwajid/physical-AI-book',
               },
             ],
           },
