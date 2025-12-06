@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/aimanwajid/physical-AI-book'
+            'https://github.com/aimanwajid/physical-AI-humanoid-robotic'
         },
         blog: {
           showReadingTime: true,
@@ -135,7 +135,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/aimanwajid/physical-AI-book',
+                href: 'https://github.com/aimanwajid/physical-AI-humanoid-robotic',
               },
             ],
           },
